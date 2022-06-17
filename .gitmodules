@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bbmle"]
+	path = bbmle
+	url = https://github.com/bbolker/bbmle
+	shallow = true
+	registered = true
+[submodule "broom.mixed"]
+	path = broom.mixed
+	url = https://github.com/bbolker/broom.mixed
+	shallow = true
+	registered = true
