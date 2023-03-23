@@ -13,3 +13,13 @@
 	url = https://github.com/bbolker/broom.mixed
 	shallow = true
 	registered = true
+[submodule "emdbook"]
+	path = emdbook
+	url = https://github.com/cran/emdbook
+	shallow = true
+	registered = true
+[submodule "R2admb"]
+	path = R2admb
+	url = https://github.com/cran/R2admb
+	shallow = true
+	registered = true
