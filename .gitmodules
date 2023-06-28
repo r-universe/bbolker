@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bbmle"]
 	path = bbmle
 	url = https://github.com/bbolker/bbmle
-	shallow = true
-	registered = true
 [submodule "broom.mixed"]
 	path = broom.mixed
 	url = https://github.com/bbolker/broom.mixed
-	shallow = true
-	registered = true
 [submodule "emdbook"]
 	path = emdbook
 	url = https://github.com/cran/emdbook
-	shallow = true
-	registered = true
 [submodule "R2admb"]
 	path = R2admb
 	url = https://github.com/cran/R2admb
-	shallow = true
-	registered = true
