@@ -10,7 +10,7 @@
 	url = https://github.com/bbolker/broom.mixed
 [submodule "emdbook"]
 	path = emdbook
-	url = https://github.com/cran/emdbook
+	url = https://github.com/bbolker/emdbook
 [submodule "R2admb"]
 	path = R2admb
 	url = https://github.com/cran/R2admb
