@@ -14,6 +14,9 @@
 [submodule "emdbook"]
 	path = emdbook
 	url = https://github.com/bbolker/emdbook
+[submodule "prediction"]
+	path = prediction
+	url = https://github.com/bbolker/prediction
 [submodule "reformulas"]
 	path = reformulas
 	url = https://github.com/bbolker/reformulas
